@@ -1,10 +1,10 @@
-Execute scripts in the following order. Path and model names need to be specified in the scripts.
+Execute the scripts in the following order. Path and model names need to be specified in the scripts.
 
 
 
 Generate the training and test data:
 
-	**-** generate\_data.py
+&nbsp;	- generate\_data.py
 
 
 
@@ -20,7 +20,7 @@ Train the models:
 
 Evaluate the models:
 
-&nbsp;	- evaluate\_---.py (substitute full name of the script)
+&nbsp;	- evaluate\_xyz.py (substitute full name of the script)
 
 
 
