@@ -1,0 +1,15 @@
+*.pdf
+*.pt
+*.pk
+*.pyc
+*.pars
+*.png
+
+/code/runs
+/code/runs_ac
+/code/runs_ddpm
+/code/results
+
+
+/runs*
+/results
